@@ -4,13 +4,6 @@ Welcome to the official team portfolio page of **Zencoders** – a passionate gr
 
 ---
 
-## 📸 Preview
-
-![Zencoders Preview](./images/preview.jpg)  
-*A modern and animated portfolio showcasing our team members.*
-
----
-
 ## 👥 Team Members
 
 | Name              | Role         | GitHub Profile                               |
@@ -52,11 +45,11 @@ To run this project locally:
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/zencoders-portfolio.git
+   git clone https://github.com/Aishvariyaa/team-portfolio.git
 
 2. Navigate into the project folder:
 
-cd zencoders-portfolio
+cd team-portfolio
 
 
 3. Open index.html in your browser.
